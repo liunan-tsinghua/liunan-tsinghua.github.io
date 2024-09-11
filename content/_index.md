@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        CryoEM HongKong 
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The CryoEM HongKong Research Group has been a center of excellence for CryoEM, teaching, and practice since its founding in 2024.
   
   - block: collection
     content:
