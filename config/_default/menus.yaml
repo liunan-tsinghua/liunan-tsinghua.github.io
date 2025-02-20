@@ -16,12 +16,12 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Alumni
-    url: alumni
-    weight: 40
+  # - name: Alumni
+  #   url: alumni
+  #   weight: 40
   - name: Photos
     url: photos
-    weight: 50
+    weight: 40
   - name: Contact
     url: contact
-    weight: 60
+    weight: 50

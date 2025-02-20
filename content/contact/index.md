@@ -7,9 +7,13 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Welcome to contact with us!
       text: |-
-        Welcome to contact with us!
+        We are delighted that you are interested in our work. 
+        
+        If you have any questions about our research, or if you wish to collaborate or learn more about our projects, please do not hesitate to contact us. We are always open to discussing our studies and potential opportunities for involvement.
+      
+        Thank you for your interest, and we look forward to connecting with you!
       email: nanliu@hku.hk
       phone: +(352) 3917 3603
       address:
