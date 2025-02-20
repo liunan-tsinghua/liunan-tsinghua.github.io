@@ -12,7 +12,7 @@ sections:
         We are delighted that you are interested in our work. 
         
         If you have any questions about our research, or if you wish to collaborate or learn more about our projects, please do not hesitate to contact us. We are always open to discussing our studies and potential opportunities for involvement.
-      
+
         Thank you for your interest, and we look forward to connecting with you!
       email: nanliu@hku.hk
       phone: +(352) 3917 3603
@@ -26,7 +26,7 @@ sections:
       coordinates:
         latitude: '22.28314'
         longitude: '114.13716'
-      directions: Room 5S04,Kadoorie Biological Sciences Building, HKU
+      directions: Room 5S-01-A,Kadoorie Biological Sciences Building, HKU
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
