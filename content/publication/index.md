@@ -5,20 +5,21 @@ date: 2020-12-01
 
 <style>
     body {
-        font-family: Arial, sans-serif; /* Change font style */
+        font-size: 16px; /* Set font size to 20 */
         line-height: 1.6; /* Increase line height for better readability */
     }
     .title {
         text-align: center;
-        font-size: 30px;
+        font-size: 30px; /* Increased size for title for distinction */
         font-weight: bold;
     }
     .publications {
+        font-family: 'Times New Roman', Times, serif; /* Change to Times New Roman */
         width: 100%; /* Adjust width as needed */
         margin: 0 auto; /* Center the content */
-        
         padding: 20px;
     }
+
 </style>
 
 <div class="title">Publications</div>
