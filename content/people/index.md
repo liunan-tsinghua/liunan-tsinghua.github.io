@@ -14,7 +14,7 @@ sections:
           - Principal Investigator
           - Postdocs
           - Graduate Students
-          - Alumni
+          - Alumni 
 
 
       sort_by: Params.first_name
