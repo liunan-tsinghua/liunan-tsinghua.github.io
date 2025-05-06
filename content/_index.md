@@ -8,14 +8,16 @@ sections:
   - block: hero
     content:
       title: |
-        CryoEM-HK 
-        Research Group
+
       image:
         filename: welcome.jpg
+
       text: |
-        <br>
+
         
-        The CryoEM HongKong Research Group has been a center of excellence for CryoEM, teaching, and practice since its founding in 2024.
+        Since 2024, the **Hong Kong CryoEM Team** has been dedicated to deeply integrating advanced cryo-electron microscopy technology with cutting-edge AI algorithms. Our goal is to create a world-leading research and teaching platform, promoting precise analysis and innovative applications in structural biology.
+        
+      
   
   # - block: collection
   #   content:
@@ -58,7 +60,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: News
       text: ""
       count: 5
       filters:
