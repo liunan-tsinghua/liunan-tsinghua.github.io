@@ -1,17 +1,15 @@
 ---
 # Display name
-title: Chenhui Zhang
-
+title: Yundi Hu
 # Full Name (for SEO)
-first_name: Chenhui 
-last_name: Zhang
+first_name: Yundi
+last_name: Hu
 
 # Is this the primary user of the site?
-superuser: False
+superuser: false
 
 # Role/position
-role: PhD Student
-
+role: Research Assistant 
 # Organizations/Affiliations
 organizations:
   # - name: The university of Hongkong
@@ -59,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Research Assistant  & Undergraduate
 ---
 

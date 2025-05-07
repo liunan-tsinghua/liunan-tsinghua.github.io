@@ -15,6 +15,7 @@ sections:
           - Postdocs
           - Graduate Students
           - Alumni 
+          - Research Assistant  & Undergraduate
 
 
       sort_by: Params.first_name
