@@ -7,13 +7,15 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Welcome to contact with us!
+      title: Welcome to the LIU lab!
       text: |-
-        We are delighted that you are interested in our work. 
-        
-        If you have any questions about our research, or if you wish to collaborate or learn more about our projects, please do not hesitate to contact us. We are always open to discussing our studies and potential opportunities for involvement.
 
-        Thank you for your interest, and we look forward to connecting with you!
+        Our lab is dedicated to uncovering macromolecular architectures and elucidating their molecular mechanisms by integrating Artificial Intelligence (AI), cell biology, and advanced cryo-electron microscopy (cryo-EM). As an interdisciplinary research team, we focus on cellular structural biology, particularly membrane remodeling processes and higher-order protein assemblies.
+
+        We embrace any technology that advances our understanding of cellular structures and are keen on developing novel cryo-EM methodologies when existing tools fall short.
+
+        Explore our research and reach out to us at SBS, HKU!
+
       email: nanliu@hku.hk
       phone: +(352) 3917 3603
       address:
