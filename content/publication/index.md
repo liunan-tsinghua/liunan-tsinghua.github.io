@@ -26,7 +26,7 @@ date: 2020-12-01
 <div class="title">Publications</div>
 
 <div class="publications">
-(#equal contribution; *corresponding author)
+Before joining HKU
 
 - Liu N, Wang HW*. (2024) Graphene in cryo-EM specimen optimization. Current Opinion in Structural Biology. (Review) 86:102823. DOI: [10.1016/j.sbi.2024.102823](https://doi.org/10.1016/j.sbi.2024.102823)
 
@@ -47,6 +47,8 @@ date: 2020-12-01
 - Liu N#, Dong XD#, Hu CX, Zeng JW, Wang JW, Wang J, Wang HW*, Belfort M*. (2020) Exon and protein positioning in a pre-catalytic group II intron RNP primed for splicing. Nucleic Acids Research. 48(19):11185-11198. DOI: [10.1093/nar/gkaa773](https://doi.org/10.1093/nar/gkaa773).
 
 - Liu N#,Zhang JC#, Chen YN#,*, Liu C, Zhang X, Xu K, Wen J, Luo ZP, Chen SL, Gao P, Jia KC, Liu ZF, Peng HL*, Wang HW*. (2019) Bioactive functionalized monolayer graphene for high-resolution cryo-electron microscopy. Journal of the American Chemical Society 141, 4016-4025. DOI: [10.1021/jacs.8b13038](https://doi.org/10.1021/jacs.8b13038). Featured in Spotlights in JACS publications.
+
+(#equal contribution; *corresponding author)
 
 Full publication list:[All Publications](https://scholar.google.com/citations?hl=zh-CN&user=jkL6NhgAAAAJ)
 </div>

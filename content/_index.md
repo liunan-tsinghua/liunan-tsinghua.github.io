@@ -17,7 +17,9 @@ sections:
 
 
           <p style="text-align: justify;">
-            Our lab is dedicated to uncovering macromolecular architectures and elucidating their molecular mechanisms by integrating Artificial Intelligence (AI), cell biology, and advanced cryo-electron microscopy (cryo-EM). As an interdisciplinary research team, we focus on cellular structural biology, particularly membrane remodeling processes and higher-order protein assemblies.
+            Our lab is dedicated to uncovering macromolecular architectures and elucidating their molecular mechanisms by integrating   
+            <b> Artificial Intelligence (AI)</b>, <b> cell biology</b>, and <b>advanced cryo-electron microscopy (cryo-EM)</b>.
+            As an interdisciplinary research team, we focus on cellular structural biology, particularly membrane remodeling processes and higher-order protein assemblies.
           </p>
 
           <p style="text-align: justify;">

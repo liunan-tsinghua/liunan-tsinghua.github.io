@@ -22,7 +22,7 @@ date: 2020-12-01
 </a>
 
 <p style="text-align: justify; font-family: 'Times New Roman', serif; ">
-  <strong>2.</strong> We are interested in cryo-EM methodology development. Our lab pioneers innovative cryo-EM specimen preparation techniques by integrating functionalized nanomaterials—such as graphene and carbon nanotubes—to overcome key limitations in cryo-EM technique (Nat Methods, 2023; JACS, 2019, 2023; PNAS, 2024; Nat Commun, 2021, 2022, 2024; etc). We are also exploring AI-powered structural data analysis and mining approaches. These technologies will be further developed and applied in cryo-EM structural studies.
+  <strong>2.</strong> We are interested in <strong>cryo-EM methodology development</strong>. Our lab pioneers innovative cryo-EM specimen preparation techniques by integrating functionalized nanomaterials—such as graphene and carbon nanotubes—to overcome key limitations in cryo-EM technique (Nat Methods, 2023; JACS, 2019, 2023; PNAS, 2024; Nat Commun, 2021, 2022, 2024; etc). We are also exploring <strong>AI-powered structural data analysis and mining approaches</strong>. These technologies will be further developed and applied in cryo-EM structural studies.
 </p>
 
 <a href="sandwich">

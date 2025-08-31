@@ -9,7 +9,7 @@ last_name: Wu
 superuser: false
 
 # Role/position
-role: MPhil
+role: MPhil(Co-supervised by Professor Yuanliang Zhai)
 # Organizations/Affiliations
 organizations:
   # - name: The university of Hongkong
@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students 
+  - Current  members
 ---
 
