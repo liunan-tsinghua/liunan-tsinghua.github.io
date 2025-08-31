@@ -7,14 +7,20 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Welcome to the LIU lab!
+      title: Welcome to our laboratory!
       text: |-
 
-        Our lab is dedicated to uncovering macromolecular architectures and elucidating their molecular mechanisms by integrating Artificial Intelligence (AI), cell biology, and advanced cryo-electron microscopy (cryo-EM). As an interdisciplinary research team, we focus on cellular structural biology, particularly membrane remodeling processes and higher-order protein assemblies.
+        <div style="font-family: 'Times New Roman', serif; font-size:22px; text-align: justify;">
+          <p>
+            We are always open to new collaborations, discussions, and opportunities to exchange ideas. 
+            Whether you are a student, researcher, or simply curious about our work, we encourage you to reach out and connect with us. 
+            Together, we can advance our understanding of macromolecular architectures and their roles in cellular processes.
+          </p>
+          <p>
+            We look forward to hearing from you and building meaningful scientific connections.
+          </p>
+        </div>
 
-        We embrace any technology that advances our understanding of cellular structures and are keen on developing novel cryo-EM methodologies when existing tools fall short.
-
-        Explore our research and reach out to us at SBS, HKU!
 
       email: nanliu@hku.hk
       phone: +(352) 3917 3603
@@ -53,23 +59,23 @@ sections:
     design:
       columns: '1'
 
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-      # columns: '1'
-      # background:
-      #   image: 
-      #     filename: #contact.jpg
-      #     filters:
-      #       brightness: 1
-      #     parallax: false
-      #     position: center
-      #     size: #cover
-      #     text_color_light: true
-      # spacing:
-      #   padding: ['20px', '0', '20px', '0']
-      # css_class: fullscreen
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: contact.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 ---

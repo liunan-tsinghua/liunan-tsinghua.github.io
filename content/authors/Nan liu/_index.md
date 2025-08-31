@@ -34,7 +34,7 @@ education:
 
     - course: BSc in Tsinghua University
       institution: Tsinghua University
-      year: 2014
+      year: 2015
 
 
 # Social/Academic Networking

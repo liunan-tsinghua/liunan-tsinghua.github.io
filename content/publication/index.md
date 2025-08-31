@@ -18,6 +18,7 @@ date: 2020-12-01
         width: 100%; /* Adjust width as needed */
         margin: 0 auto; /* Center the content */
         padding: 20px;
+        style="text-align: justify;"
     }
 
 </style>

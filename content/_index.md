@@ -13,10 +13,23 @@ sections:
         filename: welcome.jpg
 
       text: |
+        <div style="font-family: 'Times New Roman', serif; font-size:22px;">
 
-        
-        Since 2024, the **Hong Kong CryoEM Team** has been dedicated to deeply integrating advanced cryo-electron microscopy technology with cutting-edge AI algorithms. Our goal is to create a world-leading research and teaching platform, promoting precise analysis and innovative applications in structural biology.
-        
+
+          <p style="text-align: justify;">
+            Our lab is dedicated to uncovering macromolecular architectures and elucidating their molecular mechanisms by integrating Artificial Intelligence (AI), cell biology, and advanced cryo-electron microscopy (cryo-EM). As an interdisciplinary research team, we focus on cellular structural biology, particularly membrane remodeling processes and higher-order protein assemblies.
+          </p>
+
+          <p style="text-align: justify;">
+            We embrace any technology that advances our understanding of cellular structures and are keen on developing novel cryo-EM methodologies when existing tools fall short.
+          </p>
+
+          <p style="text-align: justify;">
+            Explore our research and reach out to us at SBS, HKU!
+          </p>
+        </div>
+
+
       
   
   # - block: collection

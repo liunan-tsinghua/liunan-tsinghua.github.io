@@ -2,23 +2,29 @@
 title: 
 date: 2020-12-01
 ---
-
+<div style="font-family: 'Times New Roman', serif; font-size:23px;">
 <p style="text-align: center;"><strong>Our Research</strong></p>
 
-Our laboratory specializes in cryo-EM-based structural biology, with a primary focus on developing cryo-EM methodologies and applying them to study macromolecular assemblies. We leverage AI-powered tools, material sciences, and biochemistry to advance our research. We are an open-minded and collaborative group, and we warmly welcome individuals from any research background to reach out for discussions or to explore opportunities to join our team and enjoy the vibrant lab life.
+<div style="font-family: 'Times New Roman', serif; font-size:23px;">
 
-**1.** We are interested in **Cryo-EM methodology development**. We have invented various cryo-EM specimen preparation methods through the integration of nanomaterials, such as graphene and carbon nanotubes, with bioactive functionalization strategies. Key achievements include:
+  <p style="text-align: justify;">
+    Our laboratory specializes in cryo-EM-based cellular structural biology, with a primary focus on developing cryo-EM methodologies and applying them to study macromolecular assemblies.
+  </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**(1)** Developing graphene-based supporting films of cryo-EM specimen, including the reduced graphene oxide membrane (Biophysics Reports, 2021), monolayer single-crystal graphene (JACS, 2019), Janus graphene (ACS Nano, 2021), and ultraflat graphene (Nat Methods, 2023).
+  <p style="text-align: justify;">
+    <strong>1.</strong> We are interested in exploring the molecular mechanisms underlying <strong>membrane curvature maintenance</strong> by integrating in situ cryo-EM and cell biology techniques. Recently, we discovered that tetraspanin-7 induces and stabilizes tubular membrane structures by polymerizing into a spiral higher-order assembly—a structural framework we termed the “Transmembrane Skeleton” (bioRxiv, 2024).
+  </p>
 
+</div>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;**(2)** Functionalizing these films with bioactive ligands to adjust their interactions with biomolecular particles (Nat Commun, 2022; JACS, 2019; JACS, 2023; Nat Commun, 2024). These methods improve the efficiency of cryo-EM structural determination (JMB, 2023; COSB, 2024).
-
-&nbsp;&nbsp;&nbsp;&nbsp;**(3)** Developing a graphene sandwich-based sample preparation workflow (PNAS, 2024), which uses two layers of graphene to encapsulate biological samples for cryo-EM characterization.
-<a href="sandwich">
-  ![Featured Image](sandwich.jpg)
+<a href="tspan7">
+  <img src="tspan7.png" alt="Featured Image" style="max-width:100%; height:auto;">
 </a>
 
+<p style="text-align: justify; font-family: 'Times New Roman', serif; ">
+  <strong>2.</strong> We are interested in cryo-EM methodology development. Our lab pioneers innovative cryo-EM specimen preparation techniques by integrating functionalized nanomaterials—such as graphene and carbon nanotubes—to overcome key limitations in cryo-EM technique (Nat Methods, 2023; JACS, 2019, 2023; PNAS, 2024; Nat Commun, 2021, 2022, 2024; etc). We are also exploring AI-powered structural data analysis and mining approaches. These technologies will be further developed and applied in cryo-EM structural studies.
+</p>
 
-**2.** We are interested in exploring the **molecular mechanisms underlying membrane curvature maintenance** using cryo-EM techniques. We recently uncovered how the integral membrane protein tetraspanin-7 induces and stabilizes tubular membrane structures through the formation of a spiral high-order arrangement (bioRxiv, 2024).
+<a href="sandwich">
+  <img src="sandwich.jpg" alt="Featured Image" style="max-width:100%; height:auto;">
+</a>
