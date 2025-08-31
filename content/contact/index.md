@@ -13,7 +13,7 @@ sections:
         <div style="font-family: 'Times New Roman', serif; font-size:22px; text-align: justify;">
           <p>
             We are always open to new collaborations, discussions, and opportunities to exchange ideas. 
-            Whether you are a student, researcher, or simply curious about our work, we encourage you to reach out and connect with us. 
+            Whether you are a student, researcher, or simply curious about our work, please feel free to reach out and connect with us. 
             Together, we can advance our understanding of macromolecular architectures and their roles in cellular processes.
           </p>
           <p>
@@ -34,7 +34,7 @@ sections:
       coordinates:
         latitude: '22.28314'
         longitude: '114.13716'
-      directions: Room 5S-01-A,Kadoorie Biological Sciences Building, HKU
+      directions: Room 5S-01-A, Kadoorie Biological Sciences Building, HKU
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
