@@ -51,7 +51,8 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-
+      
+  show_powered_by: false
 # Localization
 
 locale:
@@ -101,6 +102,7 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+  sharing: false   # 全局关闭社交分享按钮
 
 # Extensions
 

@@ -1,6 +1,7 @@
 ---
 title: 
 date: 2020-12-01
+share: false
 ---
 <div style="font-family: 'Times New Roman', serif; font-size:23px;">
 <p style="text-align: center;"><strong>Our Research</strong></p>
@@ -18,7 +19,7 @@ date: 2020-12-01
 </div>
 
 <a href="tspan7">
-  <img src="tspan7.png" alt="Featured Image" style="max-width:100%; height:auto;">
+  <img src="tspan7.png"  style="max-width:100%; height:auto;">
 </a>
 
 <p style="text-align: justify; font-family: 'Times New Roman', serif; ">
@@ -26,5 +27,5 @@ date: 2020-12-01
 </p>
 
 <a href="sandwich">
-  <img src="sandwich.jpg" alt="Featured Image" style="max-width:100%; height:auto;">
+  <img src="sandwich.jpg"  style="max-width:100%; height:auto;">
 </a>
