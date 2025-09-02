@@ -13,10 +13,6 @@ sections:
       user_groups:
           - Current  members
           - Alumni 
-
-
-
-
       sort_by: Params.first_name
       sort_ascending: true
     design:
