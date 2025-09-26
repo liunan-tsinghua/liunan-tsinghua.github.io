@@ -52,7 +52,6 @@ footer:
       share_alike: true
       allow_commercial: false
       
-  show_powered_by: false
 # Localization
 
 locale:
@@ -102,7 +101,7 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
-  sharing: false   # 全局关闭社交分享按钮
+  sharing: false   
 
 # Extensions
 
@@ -113,7 +112,6 @@ extensions:
   academicons:
     enable: true
 
-# Citation style
 
 publications:
   date_format: January 2006
