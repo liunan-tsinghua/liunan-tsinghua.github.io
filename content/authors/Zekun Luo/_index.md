@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Jian Li
+title: Zekun Luo
 # Full Name (for SEO)
-first_name: Jian
-last_name: Li
+first_name: Zekun 
+last_name: Luo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student(Co-supervised by Professor Yuanliang Zhai)
+role: Undergraduate
 # Organizations/Affiliations
 organizations:
   # - name: The university of Hongkong
@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Current  members
 ---
 
