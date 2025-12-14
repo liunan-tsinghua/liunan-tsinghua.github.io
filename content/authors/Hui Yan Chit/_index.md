@@ -9,7 +9,7 @@ last_name:
 superuser: false
 
 # Role/position
-role: MPhil(Co-supervised by Professor Yuanliang Zhai)
+role: MPhil (Co-supervised by Professor Yuanliang Zhai)
 # Organizations/Affiliations
 organizations:
   # - name: The university of Hongkong

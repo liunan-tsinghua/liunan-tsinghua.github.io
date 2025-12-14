@@ -9,7 +9,7 @@ last_name: Li
 superuser: false
 
 # Role/position
-role: PhD Student(Co-supervised by Professor Yuanliang Zhai)
+role: PhD (Co-supervised by Professor Yuanliang Zhai)
 # Organizations/Affiliations
 organizations:
   # - name: The university of Hongkong
