@@ -23,7 +23,7 @@ sections:
 
 
       email: nanliu@hku.hk
-      phone: +(352) 3917 3603
+      phone: +(852) 3917 3603
       address:
         street: Pokfulam
         city: HongKong
