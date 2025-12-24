@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jingying Shao
+title: Sophia Shao
 # Full Name (for SEO)
-first_name: Jingying
-last_name: Shao 
+first_name: Sophia
+last_name: Shao
 
 # Is this the primary user of the site?
 superuser: false

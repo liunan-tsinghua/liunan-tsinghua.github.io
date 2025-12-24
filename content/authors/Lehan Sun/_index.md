@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Lehan Sun
+title: Phoenix Sun
 # Full Name (for SEO)
-first_name: Lehan
+first_name: Phoenix 
 last_name: Sun
 
 # Is this the primary user of the site?

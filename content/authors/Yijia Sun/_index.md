@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yijia Sun 
+title: Vivi Sun
 # Full Name (for SEO)
-first_name: Yijia 
-last_name: Sun
+first_name: vivi 
+last_name: 
 
 # Is this the primary user of the site?
 superuser: false
