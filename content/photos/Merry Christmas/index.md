@@ -21,6 +21,3 @@ projects:
 </a>
 
 
-<a href="merry_chi">
-  <img src="merry_chi.jpg"  style="max-width:100%; height:auto;">
-</a>

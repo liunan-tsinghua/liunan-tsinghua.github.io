@@ -20,7 +20,5 @@ projects:
   <img src="road.jpg"  style="max-width:100%; height:auto;">
 </a>
 
-<a href="ocean">
-  <img src="ocean.jpg"  style="max-width:100%; height:auto;">
-</a>
+
 
