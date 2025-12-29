@@ -11,5 +11,13 @@ Before you begin this tutorial, make sure that `Git` and  `go`  are installed on
 
 
 ## 2. Config
-
 hugo version: v0.131
+
+- In windows os, you could manage different versions of hugo by `scoop`
+- In mac or 
+
+## 3.Examples of research group
+https://hugoblox.com/gallery/ 
+
+
+
