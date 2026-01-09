@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mingyang Gao 
+title: Somnus Gao 
 # Full Name (for SEO)
 first_name: Somnus
 last_name: Gao
