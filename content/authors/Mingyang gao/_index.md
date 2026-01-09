@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Mingyang Gao
+title: Mingyang Gao 
 # Full Name (for SEO)
-first_name: Mingyang
+first_name: Somnus
 last_name: Gao
 
 # Is this the primary user of the site?
