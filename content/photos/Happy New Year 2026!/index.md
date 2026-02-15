@@ -16,5 +16,5 @@ image:
   focal_point: Right
 projects:
 ---
-新的一年,心想事成,马到成功，前途似锦！
+2026，心想事成，马到成功，前途似锦！
 
