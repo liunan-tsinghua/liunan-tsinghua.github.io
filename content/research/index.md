@@ -3,10 +3,10 @@ title:
 date: 2020-12-01
 share: false
 ---
-<div style="font-family: 'Times New Roman', serif; font-size:23px;">
+<div style="font-family: 'Helvetica', serif; font-size:23px;">
 <p style="text-align: center;"><strong>Our Research</strong></p>
 
-<div style="font-family: 'Times New Roman', serif; font-size:20px;">
+<div style="font-family: 'Helvetica Neue', serif; font-size:20px;">
 
   <p style="text-align: justify;">
     Our laboratory specializes in cryo-EM-based cellular structural biology, with a primary focus on developing cryo-EM methodologies and applying them to study macromolecular assemblies.
@@ -24,7 +24,7 @@ share: false
 
 
 <div style="font-family: 'Times New Roman', serif; font-size:20px;">
-<p style="text-align: justify; font-family: 'Times New Roman', serif; ">
+<p style="text-align: justify; font-family: 'Helvetica Neue', serif; ">
   <strong>2.</strong> We are interested in <strong>cryo-EM methodology development</strong>. Our lab pioneers innovative cryo-EM specimen preparation techniques by integrating functionalized nanomaterials—such as graphene and carbon nanotubes—to overcome key limitations in cryo-EM technique (<strong>Nat Methods, 2023, 2026</strong>; <strong>JACS, 2019, 2023</strong>; <strong>PNAS, 2024</strong>; <strong>Nat Commun, 2021, 2022, 2024, 2025, 2026</strong>). We are also exploring <strong>AI-powered structural data analysis and mining approaches</strong>. These technologies will be further developed and applied in cryo-EM structural studies.
 </p>
 
