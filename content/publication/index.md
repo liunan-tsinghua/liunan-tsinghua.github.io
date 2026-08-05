@@ -16,7 +16,7 @@ share: false
         font-weight: bold;
     }
     .publications {
-        font-family: 'Times New Roman', Times, serif; /* Change to Times New Roman */
+        font-family: 'Helvetica Neue', Times, serif; /* Change to Times New Roman */
         width: 100%; /* Adjust width as needed */
         margin: 0 auto; /* Center the content */
         padding: 20px;
