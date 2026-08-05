@@ -17,7 +17,7 @@ sections:
             Together, we can advance our understanding of macromolecular architectures and their roles in cellular processes.
           </p>
           <p>
-            We look forward to hearing from you and building meaningful scientific connections.
+            We are actively recruiting talents at all levels, including <strong>Postdoctoral</strong>, <strong>Graduate Students</strong>, <strong>Research Assistant</strong> and <strong>Undergraduate Interns</strong>!
           </p>
         </div>
 
@@ -25,8 +25,8 @@ sections:
       email: nanliu@hku.hk
       phone: +(852) 3917 3603
       address:
-        street: Pokfulam
-        city: HongKong
+        street: Pokfulam Road
+        city: Hong Kong
         # region: Hongkong(China)
         # postcode: '94305'
         country: China
