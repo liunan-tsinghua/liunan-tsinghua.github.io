@@ -18,9 +18,16 @@ share: false
 
 </div>
 
-<a href="tspan7">
+
+  <img src="2.jpg"  style="max-width:100%; height:auto;">
+</a>
+
   <img src="tspan7.png"  style="max-width:100%; height:auto;">
 </a>
+
+
+
+
 
 
 <div style="font-family: 'Times New Roman', serif; font-size:20px;">
@@ -28,6 +35,6 @@ share: false
   <strong>2.</strong> We are interested in <strong>cryo-EM methodology development</strong>. Our lab pioneers innovative cryo-EM specimen preparation techniques by integrating functionalized nanomaterials—such as graphene and carbon nanotubes—to overcome key limitations in cryo-EM technique (<strong>Nat Methods, 2023, 2026</strong>; <strong>JACS, 2019, 2023</strong>; <strong>PNAS, 2024</strong>; <strong>Nat Commun, 2021, 2022, 2024, 2025, 2026</strong>). We are also exploring <strong>AI-powered structural data analysis and mining approaches</strong>. These technologies will be further developed and applied in cryo-EM structural studies.
 </p>
 
-<a href="sandwich">
+
   <img src="sandwich.jpg"  style="max-width:100%; height:auto;">
 </a>
