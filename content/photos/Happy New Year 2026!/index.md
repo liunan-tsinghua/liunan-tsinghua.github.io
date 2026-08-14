@@ -1,7 +1,7 @@
 ---
 title: Happy New Year 2026!
 share: false
-
+profile: false
 summary: 
 
 

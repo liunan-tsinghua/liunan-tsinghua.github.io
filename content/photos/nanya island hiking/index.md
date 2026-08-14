@@ -1,7 +1,7 @@
 ---
 title: Lamma Island Hiking 
 share: false
-
+profile: false
 summary: We had a wonderfully relaxing weekend on Lamma Island, where we indulged in breathtaking views and mouthwatering local cuisine.
 
 

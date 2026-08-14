@@ -19,7 +19,7 @@ main:
   # - name: Alumni
   #   url: alumni
   #   weight: 40
-  - name: Photos
+  - name: Lablife
     url: photos
     weight: 40
   - name: Contact

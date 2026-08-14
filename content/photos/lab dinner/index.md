@@ -1,7 +1,7 @@
 ---
-title: Lab Dinner
+title: Lab Dinner 
 share: false
-
+profile: false
 summary: For the Lantern Festival, our research group got together for a festive dinner, prepared a generous spread of food, and enjoyed a wonderful evening!
 abstract: 
 
@@ -35,4 +35,7 @@ slides:
 
 projects:
 ---
+<a href="road">
+  <img src="2.jpg"  style="max-width:100%; height:auto;">
+</a>
 
