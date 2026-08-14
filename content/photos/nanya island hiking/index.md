@@ -1,8 +1,8 @@
 ---
-title: Nanya Island Hiking 
+title: Lamma Island Hiking 
 share: false
 
-summary: We had a wonderfully relaxing weekend on Nanya Island, where we indulged in breathtaking views and mouthwatering local cuisine.
+summary: We had a wonderfully relaxing weekend on Lamma Island, where we indulged in breathtaking views and mouthwatering local cuisine.
 
 
 date: '2025-04-18T13:00:00Z'
