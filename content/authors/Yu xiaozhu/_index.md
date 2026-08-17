@@ -2,14 +2,14 @@
 # Display name
 title: Josephine Yu 
 # Full Name (for SEO)
-first_name: Josephine
+first_name: Josephine Xiaozhu
 last_name: Yu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: PhD Student
 # Organizations/Affiliations
 organizations:
   # - name: The university of Hongkong

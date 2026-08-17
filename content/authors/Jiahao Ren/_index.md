@@ -3,8 +3,8 @@
 title: Jasper Ren
 
 # Full Name (for SEO)
-first_name: Jasper
-last_name: 
+first_name: Jasper Jiahao
+last_name: Ren
 
 # Is this the primary user of the site?
 superuser: false

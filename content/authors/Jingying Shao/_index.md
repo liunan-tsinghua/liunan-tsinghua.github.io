@@ -2,7 +2,7 @@
 # Display name
 title: Sophia Shao
 # Full Name (for SEO)
-first_name: Sophia
+first_name: Sophia Jingying
 last_name: Shao
 
 # Is this the primary user of the site?
