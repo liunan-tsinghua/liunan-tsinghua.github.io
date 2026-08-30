@@ -1,15 +1,17 @@
 ---
 # Display name
-title: Phoenix Sun
+title: Ester Liu
+
 # Full Name (for SEO)
-first_name: Phoenix 
-last_name: Sun
+first_name: Ester
+last_name: Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate
+role: Research Assistant
+
 # Organizations/Affiliations
 organizations:
   # - name: The university of Hongkong
@@ -57,6 +59,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Current  members
 ---
 

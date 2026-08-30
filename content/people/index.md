@@ -25,15 +25,18 @@ sections:
     content:
       text: |
         ## Alumni
-        - Jian Li, PhD, 2026
-        - Dekuan Meng, THU Undergraduate (Summer Intern), 2026
-        - Qiyun Wang, UCL Undergraduate (Summer Intern), 2026
         - Benek Duan, Postdoctoral, 2025-2026
-        - Vivian Sun, Research Assistant, 2025-2026
-        - Wenxiong Wu, MPhil, 2026
-        - Zekun Luo, Undergraduate, 2025-2025
+        - Jian Li, PhD, 2026
         - Zhen Guo, MPhil, 2026
         - Hui Yan Chit, MPhil, 2025
+        - Wenxiong Wu, MPhil, 2026
+        - Lehan Sun, HKU Undergraduate, 2025-2026
+        - Dekuan Meng, THU Undergraduate (Summer Intern), 2026
+        - Qiyun Wang, UCL Undergraduate (Summer Intern), 2026
+
+        - Vivian Sun, Research Assistant, 2025-2026
+        - Zekun Luo, HKU Undergraduate, 2025-2025
+
 
 
 ---
