@@ -10,7 +10,7 @@ last_name: Felix
 superuser: False
 
 # Role/position
-role: PhD Student
+role: PhD Student<br>M.S. - SUSTech
 
 # Organizations/Affiliations
 organizations:

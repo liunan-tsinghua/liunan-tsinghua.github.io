@@ -9,7 +9,7 @@ last_name: Yu
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student<br>B.S. - Wuhan U
 # Organizations/Affiliations
 organizations:
   # - name: The university of Hongkong

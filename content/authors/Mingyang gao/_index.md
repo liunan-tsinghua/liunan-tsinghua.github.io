@@ -9,7 +9,7 @@ last_name: Gao
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student<br> M.S. - Imperial College London
 # Organizations/Affiliations
 organizations:
   # - name: The university of Hongkong

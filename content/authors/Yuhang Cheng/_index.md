@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Yuhan Lin 
+title: Monica Cheng 
 # Full Name (for SEO)
-first_name: Yuhan
-last_name: Lin
+first_name: Monica
+last_name: Cheng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student <br>with Prof. Yuanliang Zhai
+role: PhD Student<br>B.S. - Shanghai Jiao Tong U
 # Organizations/Affiliations
 organizations:
   # - name: The university of Hongkong

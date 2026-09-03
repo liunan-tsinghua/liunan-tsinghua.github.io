@@ -10,7 +10,7 @@ last_name: Ren
 superuser: false
 
 # Role/position
-role: Postdoctor
+role: Postdoctor<br>Ph.D. - Beijing Normal U
 
 # Organizations/Affiliations
 organizations:

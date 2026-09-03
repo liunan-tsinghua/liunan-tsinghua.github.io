@@ -10,11 +10,11 @@ last_name: Liu
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Research Assistant<br>B.S. - HKU
 
 # Organizations/Affiliations
 organizations:
-  # - name: The university of Hongkong
+   - name: B.S. from HKU
   #   url: 'https://www.hku.hk/'
 
 # Short bio (displayed in user profile at end of posts)
