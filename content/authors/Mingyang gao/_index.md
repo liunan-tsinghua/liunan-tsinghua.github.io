@@ -4,7 +4,7 @@ title: Somnus Gao
 # Full Name (for SEO)
 first_name: Somnus
 last_name: Gao
-
+weight: 22
 # Is this the primary user of the site?
 superuser: false
 

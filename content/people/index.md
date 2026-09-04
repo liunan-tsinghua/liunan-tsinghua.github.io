@@ -10,7 +10,7 @@ sections:
       title: Meet the Team
       user_groups:
           - Current  members
-      sort_by: Params.first_name
+      sort_by: "Weight"
       sort_ascending: true
     design:
       show_interests: false

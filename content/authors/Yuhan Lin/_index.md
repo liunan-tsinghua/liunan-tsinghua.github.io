@@ -4,7 +4,7 @@ title: Yuhan Lin
 # Full Name (for SEO)
 first_name: Yuhan
 last_name: Lin
-
+weight: 95
 # Is this the primary user of the site?
 superuser: false
 

@@ -4,7 +4,7 @@ title: Yuan Gao
 # Full Name (for SEO)
 first_name: Yuan
 last_name: Gao
-
+weight: 94
 # Is this the primary user of the site?
 superuser: false
 

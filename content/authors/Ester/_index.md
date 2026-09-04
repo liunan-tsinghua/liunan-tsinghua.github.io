@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Ester Liu
-
+weight: 50
 # Full Name (for SEO)
 first_name: Ester
 last_name: Liu

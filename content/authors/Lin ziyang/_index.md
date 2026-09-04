@@ -4,7 +4,7 @@ title: Ziyang  Lin
 # Full Name (for SEO)
 first_name: Ziyang
 last_name: Lin
-
+weight: 90
 # Is this the primary user of the site?
 superuser: false
 

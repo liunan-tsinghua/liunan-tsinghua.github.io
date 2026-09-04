@@ -4,7 +4,7 @@ title: Jule Yan
 # Full Name (for SEO)
 first_name: Jule
 last_name: Yan
-
+weight: 51
 # Is this the primary user of the site?
 superuser: false
 

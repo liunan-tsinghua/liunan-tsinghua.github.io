@@ -4,7 +4,7 @@ title: Sophia Shao
 # Full Name (for SEO)
 first_name: Sophia Jingying
 last_name: Shao
-
+weight: 52
 # Is this the primary user of the site?
 superuser: false
 

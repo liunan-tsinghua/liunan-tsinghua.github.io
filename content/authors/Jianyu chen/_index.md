@@ -4,7 +4,7 @@ title: Jianyu Chen
 # Full Name (for SEO)
 first_name: Jianyu 
 last_name: Chen
-
+weight: 25
 # Is this the primary user of the site?
 superuser: false
 

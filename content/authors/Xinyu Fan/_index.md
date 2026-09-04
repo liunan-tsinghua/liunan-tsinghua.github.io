@@ -4,7 +4,7 @@ title: Xinyu Fan
 # Full Name (for SEO)
 first_name: Xinyu
 last_name: Fan
-
+weight: 93
 # Is this the primary user of the site?
 superuser: false
 

@@ -4,7 +4,7 @@ title: Josephine Yu
 # Full Name (for SEO)
 first_name: Josephine Xiaozhu
 last_name: Yu
-
+weight: 23
 # Is this the primary user of the site?
 superuser: false
 

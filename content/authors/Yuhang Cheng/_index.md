@@ -4,7 +4,7 @@ title: Monica Cheng
 # Full Name (for SEO)
 first_name: Monica
 last_name: Cheng
-
+weight: 24
 # Is this the primary user of the site?
 superuser: false
 

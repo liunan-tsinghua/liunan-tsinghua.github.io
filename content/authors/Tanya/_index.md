@@ -1,18 +1,15 @@
 ---
 # Display name
-title: Jasper Ren
-weight: 10
-
+title: Tanya Wirunpat Jiratthitijaroen
 # Full Name (for SEO)
-first_name: Jasper Jiahao
-last_name: Ren
-
+first_name: Wirunpat
+last_name: Jiratthitijaroen
+weight: 53
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctor<br>Ph.D. - Beijing Normal U
-
+role: Undergraduate
 # Organizations/Affiliations
 organizations:
   # - name: The university of Hongkong

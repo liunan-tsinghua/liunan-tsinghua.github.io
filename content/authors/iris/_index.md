@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Iris
-
+weight: 10
 # Full Name (for SEO)
 first_name: Iris
 last_name: 
