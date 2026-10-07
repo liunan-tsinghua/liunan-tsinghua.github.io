@@ -14,10 +14,6 @@ image:
   filename: 1.jpg
 ---
 
-<a href="road">
-  <img src="2.jpg"  style="max-width:100%; height:auto;">
-</a>
-
 
 
 Keep Evolving！
